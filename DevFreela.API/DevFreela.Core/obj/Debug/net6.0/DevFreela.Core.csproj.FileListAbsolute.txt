@@ -1,0 +1,12 @@
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.deps.json
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.dll
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.csproj.AssemblyReference.cache
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfoInputs.cache
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfo.cs
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.dll
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\obj\Debug\net6.0\refint\DevFreela.Core.dll
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\vinicius\source\DEVFREELA\DevFreela.API\DevFreela.Core\obj\Debug\net6.0\ref\DevFreela.Core.dll
