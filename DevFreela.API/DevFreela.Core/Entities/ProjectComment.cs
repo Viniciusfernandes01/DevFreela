@@ -2,7 +2,7 @@
 {
     public class ProjectComment : BaseEntity
     {
-        public ProjectComment(string content, string idProject, string idUser)
+        public ProjectComment(string content, int idProject, int idUser)
         {
             Content = content;
             IdProject = idProject;
@@ -12,9 +12,9 @@
 
         public string Content { get; private set; }
 
-        public string IdProject { get; private set; }
+        public int IdProject { get; private set; }
 
-        public string IdUser { get; private set; }
+        public int IdUser { get; private set; }
 
         public DateTime CreatedAt { get; private set; }
     }

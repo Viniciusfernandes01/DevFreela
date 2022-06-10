@@ -29,5 +29,7 @@ namespace DevFreela.Infrastructure.Persistence
 
         public List<Skill> Skills { get; set; }
 
+        public List<ProjectComment> ProjectComments { get; set; }
+
     }
 }
